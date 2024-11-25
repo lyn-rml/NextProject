@@ -1,2 +1,0 @@
-# NextProject
-# Commit Message
